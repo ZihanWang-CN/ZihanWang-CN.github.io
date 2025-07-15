@@ -12,7 +12,7 @@ title: Awards
 
 ## Scholarships
 
-- November 2022：**Zhongtian Steel Scholarship** (¥5000)<br>(Special Scholarship, equivalent to People’s Special Prize; Top **3%**)<br>
+- November 2022：**Zhongtian Steel Scholarship** (¥5000)<br>(Special Scholarship, equivalent to People’s Special-Class Prize; Top **3%**)<br>
 - November 2021：**People’s Second-Class Scholarship** (¥1500)(Top **10%**)
 - Dec 2023：**People’s Third-Class Scholarship** (¥500)(Top **30%**)
 
