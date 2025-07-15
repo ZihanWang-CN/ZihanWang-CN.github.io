@@ -26,7 +26,7 @@ title: Publications
 
 - SNN and Neuromorphic Hardware Integration for Object Detection  
 Jul 2025 - Present                              
-<br>*Master's Project.*
+<br>*Master's Project.*<br>
 Spiking Neural Networks (SNNs), recognized as the third generation of neural networks, offer a biologically inspired and energy-efficient approach to object detection; this project will deploy SNN algorithms on neuromorphic FPGA hardware to realize energy-efficient SAR object detection.<br>
 
 
