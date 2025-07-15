@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="zihanwang.jpg" class="floatpic">
+
 
 Here is **Zihan Wang (Zephyr, 王子涵)**.<br>
 
@@ -25,7 +25,7 @@ Prior to UCAS, I earned a Bachelor’s degree in Automation from the [University
 
 ## News and Updates
 
-- **June 2025**：**Our work *Energy-Efficient SAR Coherent Change Detection based on Deep Multi-Threshold Spiking-UNet has been accepted for publication* in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR).
-- **May 2025**：**Our work *Energy-Efficient Attention-Based Spiking YOLO Network for SAR Ship Detection* has been accepted to [IGARSS 2025](https://2025.ieeeigarss.org/view_session.php?SessionID=1066) as a poster paper. See you in Australia!
+- **June 2025**：Our work "Energy-Efficient SAR Coherent Change Detection based on Deep Multi-Threshold Spiking-UNet has been accepted for publication" in the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)*.
+- **May 2025**：Our work "Energy-Efficient Attention-Based Spiking YOLO Network for SAR Ship Detection" has been accepted to *[IGARSS 2025](https://2025.ieeeigarss.org/view_session.php?SessionID=1066)* as a poster paper. See you in Australia!
 
 
