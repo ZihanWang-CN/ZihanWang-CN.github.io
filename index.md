@@ -8,7 +8,7 @@ layout: page
 
 Here is **Zihan Wang (Zephyr, 王子涵)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I am currently a master's student at the [Aerospace Information Research Institute](http://www.aircas.cn/), University of Chinese Academy of Sciences, supervised by Prof. [Bingchen Zhang](https://people.ucas.edu.cn/~bczhang). My research interests focus on computer vision and brain-inspired intelligence. I expect to complete my master's degree in June 2026 and plan to pursue a Ph.D. abroad.
 
 Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
 
