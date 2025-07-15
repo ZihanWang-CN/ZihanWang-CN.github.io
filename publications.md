@@ -8,16 +8,16 @@ title: Publications
 
 ## Journal Papers
 
-- Energy-Efficient Spiking Attention YOLO Network for SAR Ship Detection<br>**Zihan Wang~**, Yanxing Lu, Yizhe Fan, Qiang Li, Zhe Zhang, Shushan Qiao, and Bingchen Zhang<br>Submitted to *IEEE Geoscience and Remote Sensing Letters (GRSL)* (JCR Q1, SCIE, IF=4.7).<br>Under major revision (2nd-round review), expected publication 2025.<br>
+- Energy-Efficient Spiking Attention YOLO Network for SAR Ship Detection<br>**Zihan Wang~**, Yanxing Lu, Yizhe Fan, Qiang Li, Zhe Zhang, Shushan Qiao, and Bingchen Zhang<br>Submitted to *IEEE Geoscience and Remote Sensing Letters (GRSL)* (JCR Q1, SCIE, IF=4.7).<br>Under major revision, expected publication 2025.<br>
 
 - Energy-Efficient Spiking Diffusion Model for SAR Ship Detection (in chinese)<br>**Zihan Wang~**, Xinyi Ye, Qiang Li, Shushan Qiao, and Bingchen Zhang.<br>Submitted to *Journal of Radars* (Chinese Journal) (EI, IF=3.414).<br>
   
-- [Energy-Efficient SAR Coherent Change Detection based on Deep Multi-Threshold Spiking-UNet](https://doi.org/10.1109/JSTARS.2025.3583058)<br>Xinyi Ye~, Yanxing Liu, **Zihan Wang~**, Yizhe Fan, Bingchen Zhang.<br>Submitted to IEEE Communications Standards Magazine.<br>accepted for publication" in the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)*.<br>
+- [Energy-Efficient SAR Coherent Change Detection based on Deep Multi-Threshold Spiking-UNet](https://doi.org/10.1109/JSTARS.2025.3583058)<br>Xinyi Ye~, Yanxing Liu, **Zihan Wang~**, Yizhe Fan, Bingchen Zhang.<br>Accepted for publication in the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)*.<br>
 
 
 ## Conference Papers
 
-- [Energy-Efficient Attention-Based Spiking YOLO Network for SAR Ship Detection.](https://arxiv.org/abs/2502.08426)<br>**Zihan Wang~**, Yanxing Lu, Jinxin Li, and Bingchen Zhang.<br>*IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)*<br>Brisbane, Australia. August, 2025.<br>
+- [Energy-Efficient Attention-Based Spiking YOLO Network for SAR Ship Detection.](https://arxiv.org/abs/2502.08426)<br>**Zihan Wang~**, Yanxing Lu, Jinxin Li, and Bingchen Zhang.<br>*IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)*, Brisbane, Australia, August.2025.<br>
 
 
 ---
@@ -25,8 +25,7 @@ title: Publications
 ## Projects
 
 - SNN and Neuromorphic Hardware Integration for Object Detection  Jul 2025 - Present                              
-<br>*Master's Project.*
-<br>
+<br>*Master's Project.*<br>
 Spiking Neural Networks (SNNs), recognized as the third generation of neural networks, offer a biologically inspired and energy-efficient approach to object detection; this project will deploy SNN algorithms on neuromorphic FPGA hardware to realize energy-efficient SAR object detection.<br>
 
 
