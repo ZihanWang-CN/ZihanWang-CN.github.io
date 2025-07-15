@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="zihanwang.jpg" class="floatpic">
 
 Here is **Zihan Wang (Zephyr, 王子涵)**.<br>
 
