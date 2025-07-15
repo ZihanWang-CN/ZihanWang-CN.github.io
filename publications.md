@@ -36,7 +36,7 @@ February 2025 – July 2025
 Developed a Spiking Diffusion Model that leverages a diffusion process to improve multi-scale detection accuracy and employs spiking neurons to reduce energy consumption, overcoming the high energy demands and inflexibility of fixed-anchor SAR detectors.<br>Outcome: First-author manuscript submitted to Journal of Radars (Chinese, EI-indexed, IF = 3.414).<br>
 
 - Spike-Attention YOLO Network for SAR Image Object Detection  
-December 2024 – Jan 2025
+December 2024 – January 2025
 <br>*Master's Project.*<br>
 Faced with the high energy demands of ANNs in SAR detection and CNN’s limited receptive field for large targets, this project designed an energy-efficient detection model with enhanced mutil-scale object capabilities. We introduced a Spiking Neural Network to minimize multiplication operations and energy use, and fused a spiking attention mechanism to strengthen global feature extraction.<br>
 Outcome: First-author manuscript submitted to IEEE GRSL (JCR Q1, SCIE, IF=4.7); presented as first author at IGARSS 2025.<br>
@@ -44,7 +44,7 @@ Outcome: First-author manuscript submitted to IEEE GRSL (JCR Q1, SCIE, IF=4.7); 
 ---
 
 ## Degree Thesis
-- Groundwater Leakage Detection Using Polarimetric SAR Imagery Dec 2022 – Jun 2023<br>Final year project (thesis).<br>Leveraged the soil- and vegetation-penetrating capability of polarimetric SAR to develop an efficient detection algorithm; by applying polarimetric synthesis and decomposition to enhance leak‐related features and calibrating the model with in-situ measurements, the method precisely localized groundwater leakage zones with significantly improved flexibility over traditional approaches.
+- Groundwater Leakage Detection Using Polarimetric SAR Imagery December 2022 – January 2023<br>Final year project (thesis).<br>Leveraged the soil- and vegetation-penetrating capability of polarimetric SAR to develop an efficient detection algorithm; by applying polarimetric synthesis and decomposition to enhance leak‐related features and calibrating the model with in-situ measurements, the method precisely localized groundwater leakage zones with significantly improved flexibility over traditional approaches.
 
 
 
