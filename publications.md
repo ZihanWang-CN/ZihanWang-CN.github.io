@@ -6,46 +6,44 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Journal Paper
+## Journal Papers
 
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
+- Energy-Efficient Spiking Attention YOLO Network for SAR Ship Detection<br>**Zihan Wang~**, Yanxing Lu, Yizhe Fan, Qiang Li, Zhe Zhang, Shushan Qiao, and Bingchen Zhang<br>Submitted to *IEEE Geoscience and Remote Sensing Letters (GRSL)* (JCR Q1, SCIE, IF=4.7).<br>Under major revision (2nd-round review), expected publication 2025.<br>
+
+- Energy-Efficient Spiking Diffusion Model for SAR Ship Detection (in chinese)<br>**Zihan Wang~**, Xinyi Ye, Qiang Li, Shushan Qiao, and Bingchen Zhang.<br>Submitted to *Journal of Radars* (Chinese Journal) (EI, IF=3.414).<br>
   
-  
-  
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br>
+- [Energy-Efficient SAR Coherent Change Detection based on Deep Multi-Threshold Spiking-UNet](https://doi.org/10.1109/JSTARS.2025.3583058)<br>Xinyi Ye~, Yanxing Liu, **Zihan Wang~**, Yizhe Fan, Bingchen Zhang.<br>Submitted to IEEE Communications Standards Magazine.<br>accepted for publication" in the *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)*.<br>
 
-## Conference Paper
 
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.<br>
+## Conference Papers
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.<br>
-
-- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.<br>
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.<br><br>
+- [Energy-Efficient Attention-Based Spiking YOLO Network for SAR Ship Detection.](https://arxiv.org/abs/2502.08426)<br>**Zihan Wang~**, Yanxing Lu, Jinxin Li, and Bingchen Zhang.<br>*IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)*<br>Brisbane, Australia. August, 2025.<br>
 
 
 ---
 
-## Early Project
+## Projects
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
+- SNN and Neuromorphic Hardware Integration for Object Detection  Jul 2025 - Present                              
+<br>*Master's Project.*
+<br>
+Spiking Neural Networks (SNNs), recognized as the third generation of neural networks, offer a biologically inspired and energy-efficient approach to object detection; this project will deploy SNN algorithms on neuromorphic FPGA hardware to realize energy-efficient SAR object detection.<br>
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
 
-  <br>
+- Spike-Driven Diffusion Method for Ship Detection in SAR Images  Feb 2025 – Jul 2025                           <br>*Master's Project.*<br>
+Developed a Spiking Diffusion Model that leverages a diffusion process to improve multi-scale detection accuracy and employs spiking neurons to reduce energy consumption, overcoming the high energy demands and inflexibility of fixed-anchor SAR detectors.<br>Outcome: First-author manuscript submitted to Journal of Radars (Chinese, EI-indexed, IF = 3.414).<br>
+
+- Spike-Attention YOLO Network for SAR Image Object Detection  Jul 2024 – Jan 2025
+<br>*Master's Project.*<br>
+Faced with the high energy demands of ANNs in SAR detection and CNN’s limited receptive field for large targets, this project designed an energy-efficient detection model with enhanced mutil-scale object capabilities. We introduced a Spiking Neural Network to minimize multiplication operations and energy use, and fused a spiking attention mechanism to strengthen global feature extraction.<br>
+Outcome: First-author manuscript submitted to IEEE GRSL (JCR Q1, SCIE, IF=4.7); presented as first author at IGARSS 2025.<br>
 
 ---
 
 ## Degree Thesis
+- Groundwater Leakage Detection Using Polarimetric SAR Imagery Dec 2022 – Jun 2023<br>Final year project (thesis).<br>Leveraged the soil- and vegetation-penetrating capability of polarimetric SAR to develop an efficient detection algorithm; by applying polarimetric synthesis and decomposition to enhance leak‐related features and calibrating the model with in-situ measurements, the method precisely localized groundwater leakage zones with significantly improved flexibility over traditional approaches.
 
-- Semantic Communicaiton for the Internet of Everything: From Molecules to Universe<br>Hanlin Cai (Advisor: Ozgur B. Akan).
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to ACM SIGKDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China HUADING Tech.<br>
 
   <br>
 
